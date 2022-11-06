@@ -253,8 +253,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-ops-csub.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-base-ops-csub
 
-[test-image]: https://github.com/stdlib-js/math-base-ops-csub/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/math-base-ops-csub/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/math-base-ops-csub/actions/workflows/test.yml/badge.svg?branch=v0.0.8
+[test-url]: https://github.com/stdlib-js/math-base-ops-csub/actions/workflows/test.yml?query=branch:v0.0.8
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-ops-csub/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-ops-csub?branch=main
