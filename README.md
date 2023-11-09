@@ -240,6 +240,14 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/ops/cadd`][@stdlib/math/base/ops/cadd]</span><span class="delimiter">: </span><span class="description">add two double-precision complex floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/math-base/ops/cdiv`][@stdlib/math/base/ops/cdiv]</span><span class="delimiter">: </span><span class="description">divide two complex numbers.</span>
+-   <span class="package-name">[`@stdlib/math-base/ops/cmul`][@stdlib/math/base/ops/cmul]</span><span class="delimiter">: </span><span class="description">multiply two double-precision complex floating-point numbers.</span>
+
 </section>
 
 <!-- /.related -->
@@ -312,6 +320,16 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-ops-csub/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-ops-csub/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/ops/cadd]: https://github.com/stdlib-js/math-base-ops-cadd
+
+[@stdlib/math/base/ops/cdiv]: https://github.com/stdlib-js/math-base-ops-cdiv
+
+[@stdlib/math/base/ops/cmul]: https://github.com/stdlib-js/math-base-ops-cmul
+
+<!-- </related-links> -->
 
 </section>
 
