@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import csub from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-csub@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-ops-csub/tags). For example,
+
+```javascript
 import csub from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-csub@v0.2.2-deno/mod.js';
 ```
 
@@ -86,7 +91,7 @@ var im = imag( v );
 ```javascript
 import Complex128 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-ctor@deno/mod.js';
 var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform' ).factory;
-import csub from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-csub@v0.2.2-deno/mod.js';
+import csub from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-csub@deno/mod.js';
 
 var rand;
 var z1;
